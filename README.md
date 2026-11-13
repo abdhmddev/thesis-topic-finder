@@ -21,6 +21,9 @@ It teaches as it goes, so you can defend every line at your viva.
 
 ## Install
 
+### Fastest: paste a prompt
+Open **[INSTALL-PROMPT.md](INSTALL-PROMPT.md)**, copy the prompt, paste it into a new Claude chat. Claude installs the skill and starts the tour with you.
+
 ### Option A: Claude.ai or the Claude desktop app (easiest)
 1. Download **[thesis-topic-finder.zip](https://github.com/abdhmddev/thesis-topic-finder/raw/main/dist/thesis-topic-finder.zip)** (or zip the folder `skills/thesis-topic-finder` yourself).
 2. In Claude, open **Settings → Capabilities → Skills** and click **Upload skill**.
