@@ -22,7 +22,7 @@ It teaches as it goes, so you can defend every line at your viva.
 ## Install
 
 ### Option A: Claude.ai or the Claude desktop app (easiest)
-1. Download `thesis-topic-finder.zip` from the [Releases](https://github.com/abdhmddev/thesis-topic-finder/releases/latest) page, or zip the folder `skills/thesis-topic-finder` yourself.
+1. Download **[thesis-topic-finder.zip](https://github.com/abdhmddev/thesis-topic-finder/raw/main/dist/thesis-topic-finder.zip)** (or zip the folder `skills/thesis-topic-finder` yourself).
 2. In Claude, open **Settings → Capabilities → Skills** and click **Upload skill**.
 3. Choose the zip. Make sure **Code execution** is on.
 
@@ -67,6 +67,6 @@ skills/thesis-topic-finder/
 ### بالعربي
 مهارة لـ Claude بتاخد أي طالب ماجستير أو دكتوراه بجولة خطوة بخطوة. بتسألك أسئلة، وبتبحث عن الدكتور والمجال، وبتطلع ٤–٦ مواضيع. بعدين مجلس من ٧ مستشارين بيتناقش فيها، وفي تحقق مستقل من المراجع، وبالآخر بتطلعلك موضوع قوي ومرتّب مع proposal وعرض للدكتور.
 
-**التنزيل:** نزّل الـ zip، وبـ Claude روح على Settings ← Capabilities ← Skills ← Upload skill.
+**التنزيل:** نزّل [thesis-topic-finder.zip](https://github.com/abdhmddev/thesis-topic-finder/raw/main/dist/thesis-topic-finder.zip)، وبـ Claude روح على Settings ← Capabilities ← Skills ← Upload skill.
 
 MIT License · Made by Abdelrahman Hammoud
