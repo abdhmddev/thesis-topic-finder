@@ -1,0 +1,11 @@
+{
+  "name": "thesis-topic-finder",
+  "owner": { "name": "Abdelrahman Hammoud" },
+  "plugins": [
+    {
+      "name": "thesis-topic-finder",
+      "source": "./",
+      "description": "Find, pressure-test and pitch a graduate thesis topic with a guided tour, research dossiers, a 7-advisor council and a fact-check."
+    }
+  ]
+}

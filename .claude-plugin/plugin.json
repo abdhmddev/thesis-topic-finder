@@ -1,0 +1,8 @@
+{
+  "name": "thesis-topic-finder",
+  "version": "1.0.0",
+  "description": "Guided tour that finds, pressure-tests and pitches a strong graduate thesis topic (MSc / MPhil / PhD): intake interview, supervisor and literature research, a 7-advisor council, an independent fact-check, and a proposal kit.",
+  "author": { "name": "Abdelrahman Hammoud" },
+  "license": "MIT",
+  "keywords": ["thesis", "research", "graduate", "mphil", "phd", "topic", "proposal", "council"]
+}
